@@ -1,0 +1,1 @@
+pyinstaller viewers.py --noconsole --onefile
