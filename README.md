@@ -1,3 +1,3 @@
 # Apps
 #Setup apps:
-pyinstaller viewers.py --noconsole --onefile
+pyinstaller.exe --onefile --windowed --icon=icon.ico app.py
