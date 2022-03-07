@@ -50,9 +50,7 @@ def views_page(driver,urls,listData,page):
         print('Finished keyword jumping to next one...')
         btnWatch["state"] = "disabled"
         return []
-    print(">>>>>>>>>>>",int(len(listData) - len(urls)) == int(page)) 
-    print(">>>>>>>>>>> page",page)
-    print(">>>>>>>>>>> len ",len(listData) - len(urls)) 
+
     if (int(len(listData) - len(urls)) == int(page)):
         return []
     # gettin a video link from the list

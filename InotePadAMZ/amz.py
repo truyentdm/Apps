@@ -16,7 +16,7 @@ page = 0
 window = Tk()
 window.geometry('450x320')
 window.title('INotepad.cloud - Phần mềm Check ASIN')
-window.iconbitmap('icon.ico')
+window.iconbitmap('G:\Coder\Build Project\Apps\InotePadAMZ\icon.ico')
 # window.resizable(0, 0)
 
 def addTreeView(data):
