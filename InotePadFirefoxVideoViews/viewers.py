@@ -17,7 +17,7 @@ from selenium.webdriver.support import expected_conditions as EC
 window = Tk()
 window.geometry('430x300')
 window.title('INotepad.cloud - Phần mềm Views')
-window.iconbitmap('icon.ico')
+window.iconbitmap('G:\Coder\Build Project\Apps\InotePadFirefoxVideoViews\icon.ico')
 window.resizable(0, 0)
 
 listData = []
