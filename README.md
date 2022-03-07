@@ -1,3 +1,3 @@
 # Apps
-#Setup apps
+#Setup apps:
 pyinstaller viewers.py --noconsole --onefile
