@@ -1,0 +1,1511 @@
+1646706230565	geckodriver	INFO	Listening on 127.0.0.1:50078
+1646706236195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50079" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileqt9s8E"
+*** You are running in headless mode.
+1646706236750	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:50079/devtools/browser/fdb62369-9d59-4333-ae56-3247b4d997ab
+1646706238125	Marionette	INFO	Listening on port 50084
+1646706238265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 7453 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae33261660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae319fcd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae319fcd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cYUZDpkDTLiaCxFKW6PIDwgD40qdhgxPHck_a-4gLzE.js line 1 > eval line 7732 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2edc0580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae316c23c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2df4dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2df4dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cYUZDpkDTLiaCxFKW6PIDwgD40qdhgxPHck_a-4gLzE.js line 1 > eval line 1208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae25d8e040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae25d753c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2dee33c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cYUZDpkDTLiaCxFKW6PIDwgD40qdhgxPHck_a-4gLzE.js line 1 > eval line 1216 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2dee33c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2df41200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2df4d4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2df41820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2df41820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cYUZDpkDTLiaCxFKW6PIDwgD40qdhgxPHck_a-4gLzE.js line 1 > eval line 2278 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2df41d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae352d9ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2df4d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2df4d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cYUZDpkDTLiaCxFKW6PIDwgD40qdhgxPHck_a-4gLzE.js line 1 > eval line 4352 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae25d759e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2df914a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2efa69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae2efa69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cYUZDpkDTLiaCxFKW6PIDwgD40qdhgxPHck_a-4gLzE.js line 1 > eval line 2714 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646708191623	Marionette	INFO	Stopped listening on port 50084
+[Child 11728, MediaDecoderStateMachine #1] WARNING: 2ae31af1900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1646812603468	geckodriver	INFO	Listening on 127.0.0.1:54868
+1646812609379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54869" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileqVLIls"
+*** You are running in headless mode.
+1646812610024	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54869/devtools/browser/6af060a7-6c1d-4105-9d90-dfb8cda876f5
+1646812611565	Marionette	INFO	Listening on port 54874
+1646812612079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cd40c3200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cd40c3040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 7136 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cd40c3040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cc9e853c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccf49eac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cc9e76ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cc9e76ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 7298 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccc251f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cd6295200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccc2512e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccc2512e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 6016 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cc9e85900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cd55fc660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccc251900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccc251900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 1323 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccba45c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cd3581e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccc398660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 7613 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccc398660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccc251e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cd88fe040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccc2aad60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12ccc2aad60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 974 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646815487311	Marionette	INFO	Stopped listening on port 54874
+[Child 22048, MediaDecoderStateMachine #1] WARNING: 12cc9e86c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1646861815118	geckodriver	INFO	Listening on 127.0.0.1:52424
+1646861820996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52425" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilekIclQU"
+*** You are running in headless mode.
+1646861821585	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:52425/devtools/browser/b6731b9a-87e5-4b62-8bc6-7d90cf7ba64e
+1646861823130	Marionette	INFO	Listening on port 52437
+1646861823169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 5444, MediaDecoderStateMachine #1] WARNING: 17bc48ef900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1646892936825	geckodriver	INFO	Listening on 127.0.0.1:62715
+1646892942658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62716" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileZwuGiI"
+*** You are running in headless mode.
+1646892943939	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:62716/devtools/browser/626568bd-18ad-4724-b0ac-b6093f2af191
+1646892946062	Marionette	INFO	Listening on port 62721
+1646892946342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184eb4392e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184e9eb9200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184e9eb9200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 5549 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184eb347580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184ecd162e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184ec4e1740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184ec4e1740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 1686 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184e9eb9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184f0c6c3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184e9eb9c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184e9eb9c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 5354 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184e9eb9e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184ecd039e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184e9e55740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184e9e55740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 2445 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184eaa8a4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184ed9262e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184ecd03040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184ecd03040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184efbb33c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184ec9fcba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7056, MediaDecoderStateMachine #1] WARNING: 184ec9fcba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xt8fZ__SaXi8rLOjRFpxOtLjv0mS66MIGtFrZKZOLkM.js line 1 > eval line 7747 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646894902356	Marionette	INFO	Stopped listening on port 62721
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1646980176951	geckodriver	INFO	Listening on 127.0.0.1:49365
+1646980183782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49366" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilexRN5xL"
+*** You are running in headless mode.
+1646980184647	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:49366/devtools/browser/8a0daf54-c283-45f0-b999-6a9b96fd40e6
+1646980186593	Marionette	INFO	Listening on port 49375
+1646980186961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 5867 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f2719989e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f2719989e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f270f09200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f270f09200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hm737X7NyeLn_y86DHPNXi0zOAiQK-KndTMCkSr2i9Q.js line 1 > eval line 6391 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f267518660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f2689b2120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f2689b2120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hm737X7NyeLn_y86DHPNXi0zOAiQK-KndTMCkSr2i9Q.js line 1 > eval line 992 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f26a0402e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f26a0402e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f267518e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f267518e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hm737X7NyeLn_y86DHPNXi0zOAiQK-KndTMCkSr2i9Q.js line 1 > eval line 4232 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f26a0402e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f26a2603c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f26a2603c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f267504e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f267504e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f26f680f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f26f680f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f26b87d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f26b87d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hm737X7NyeLn_y86DHPNXi0zOAiQK-KndTMCkSr2i9Q.js line 1 > eval line 3208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f269a2a3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f2689b23c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f2689b23c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 5488, MediaDecoderStateMachine #1] WARNING: 1f26b87d900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1646982011191	Marionette	INFO	Stopped listening on port 49375
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647416162567	geckodriver	INFO	Listening on 127.0.0.1:53935
+1647416168198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53936" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilepArCYL"
+*** You are running in headless mode.
+1647416168759	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:53936/devtools/browser/f65b3851-c0f3-413b-9d57-8137839e2d3b
+1647416170125	Marionette	INFO	Listening on port 53941
+1647416170249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 7057 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120f12cf4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e58484a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e5848c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e5848c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120ddbb4820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120ddbb4820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 5554 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120ddbb8e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120edf3cac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e5e8dc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e5e8dc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 3497 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120ddbb4f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120efb19e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120efb19e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e4897580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e4897580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 1883 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e4842ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120f18edc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120f18edc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120ddb43ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120ddb43ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 6509 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e4842900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e53c1900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e8176200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120ec2e9200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120ec2e9200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e4897e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e4897e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120ea970c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e48b9820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e7ffd580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e79f2e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e79f2e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120eb7f0040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120eb7f0040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e7195ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e7195ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 7584 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e4842040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120f167e900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120f167e900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e73cf660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 4004 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e73cf660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647419835822	Marionette	INFO	Stopped listening on port 53941
+[Child 4312, MediaDecoderStateMachine #1] WARNING: 120e73cfac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1647512047208	geckodriver	INFO	Listening on 127.0.0.1:61530
+1647512052971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61531" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofile9xjEhM"
+*** You are running in headless mode.
+1647512054120	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:61531/devtools/browser/22fdeb12-5712-4f50-9ffe-a44eb6dc2d88
+1647512055820	Marionette	INFO	Listening on port 61536
+1647512056165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213aa2b2ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139f927580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139f927580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a8c8f040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a8c8f040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139f8d7e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139f8d7e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/c9SOW3fm-cIOlp3tvRsibzkEuEO1MqMyQpfRRVluBWQ.js line 1 > eval line 6716 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139effe660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213aafd7ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a4595ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a4595ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a3b1ee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a3b1ee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/c9SOW3fm-cIOlp3tvRsibzkEuEO1MqMyQpfRRVluBWQ.js line 1 > eval line 7630 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a2c192e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a56d3740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139f8d7ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139f8d7ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/c9SOW3fm-cIOlp3tvRsibzkEuEO1MqMyQpfRRVluBWQ.js line 1 > eval line 5478 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a4f52200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a1b049e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a1b049e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139f8d7040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647515892378	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a501cd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a501cd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139f9279e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139f9279e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/c9SOW3fm-cIOlp3tvRsibzkEuEO1MqMyQpfRRVluBWQ.js line 1 > eval line 253 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a25d1f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139817d200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213aa4a69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213aa4a69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a40a62e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/c9SOW3fm-cIOlp3tvRsibzkEuEO1MqMyQpfRRVluBWQ.js line 1 > eval line 5846 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139fd2cba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139fd2cba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a38c1580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a38c1580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a7bb1d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 213a7bb1d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10472, MediaDecoderStateMachine #1] WARNING: 2139f91ec80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647517399451	Marionette	INFO	Stopped listening on port 61536
+1647589388526	geckodriver	INFO	Listening on 127.0.0.1:55605
+1647589394310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55606" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileQ2s10i"
+*** You are running in headless mode.
+1647589394563	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:55606/devtools/browser/23442ebe-8250-4ceb-8892-85f07a8fa6fa
+1647589395902	Marionette	INFO	Listening on port 55611
+1647589396385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 1533 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8ca9fb200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8c083e200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8c083e200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8bdff1200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8bdfa0d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8bfe14820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8c7835040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8bfa61e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8bfa61e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8c470c200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8c2593660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8c2593660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 4249 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8bd777e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8c7637580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8bf93b2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8bf93b2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 5511 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8bf93b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8c3411f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10428, MediaDecoderStateMachine #1] WARNING: 2b8c440b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647591931588	Marionette	INFO	Stopped listening on port 55611
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1647698904840	geckodriver	INFO	Listening on 127.0.0.1:55502
+1647698910736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55503" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilezkKiL1"
+*** You are running in headless mode.
+1647698911010	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:55503/devtools/browser/abe78dc3-79be-4a3f-9e6f-01b1c3086bcb
+1647698912896	Marionette	INFO	Listening on port 55509
+1647698913410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d98472040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d8b19f660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d8b19f660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d8fcfc040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d83b31740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d83b31740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d9640f9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d83b96c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d83b96c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d8ffa7ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d90680120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1704, MediaDecoderStateMachine #1] WARNING: 18d90680120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647700254023	Marionette	INFO	Stopped listening on port 55509
+1647802162047	geckodriver	INFO	Listening on 127.0.0.1:56454
+1647802168924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56455" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileWZOgcN"
+*** You are running in headless mode.
+1647802169513	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:56455/devtools/browser/73eb0fab-f399-47ea-9979-c69a11cd7dec
+1647802171866	Marionette	INFO	Listening on port 56460
+1647802172136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edb98f34a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edaf457580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edb6c36900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edaf1e69e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edba695900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edb6c30820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edbcff7120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edb6e10740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edb854b200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edbc38fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edb82bfba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edc190b2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edb6ed6120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edb3d724a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edc40423c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edb9eadc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edbda5b820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edbb2c6040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edb9fbe120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edbe3e0f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edbe175120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 10176, MediaDecoderStateMachine #1] WARNING: 1edbd439ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647928628143	geckodriver	INFO	Listening on 127.0.0.1:60871
+1647928633763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60872" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileTUee1B"
+*** You are running in headless mode.
+1647928634053	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:60872/devtools/browser/0e95d7bd-8077-425c-9b35-4e803695554a
+1647928635626	Marionette	INFO	Listening on port 60877
+1647928635813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 2171 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171c50e4820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bb82c040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bb82c040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/c9SOW3fm-cIOlp3tvRsibzkEuEO1MqMyQpfRRVluBWQ.js line 1 > eval line 212 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bab68740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bb82c120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bf008ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bf008ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bab68900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171be7f5820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171be7f5820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/c9SOW3fm-cIOlp3tvRsibzkEuEO1MqMyQpfRRVluBWQ.js line 1 > eval line 5515 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bd87d580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171be148ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171b3231ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171b3231ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171c39ea200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171b3231c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171b3231c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/c9SOW3fm-cIOlp3tvRsibzkEuEO1MqMyQpfRRVluBWQ.js line 1 > eval line 618 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171babaac80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bb64ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bdd6b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bdd6b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/c9SOW3fm-cIOlp3tvRsibzkEuEO1MqMyQpfRRVluBWQ.js line 1 > eval line 7699 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171ba8f33c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171beee6580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647930740504	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bb3ebba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bb3ebba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171c56d94a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171b8689200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171b8689200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bdd0d900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171ba17d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171ba17d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171c5049040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171b3231740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171b3231740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171bd10fac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171ba17d4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171ba17d4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/c9SOW3fm-cIOlp3tvRsibzkEuEO1MqMyQpfRRVluBWQ.js line 1 > eval line 38 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647932250347	Marionette	INFO	Stopped listening on port 60877
+[Child 9876, MediaDecoderStateMachine #1] WARNING: 171b865e200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647961187175	geckodriver	INFO	Listening on 127.0.0.1:50322
+1647961192857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50323" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofile9Futq3"
+1647961193197	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:50323/devtools/browser/17717fe4-4dd3-43c6-92c3-dfb36354edb5
+1647961195124	Marionette	INFO	Listening on port 50328
+1647961195525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 3339 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27ae578b9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27ae61dc3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27adc5fc580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27aebadd040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27aec30e900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27ae6ef34a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27adac503c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27adb16ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647963235597	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27adb14c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27adb14c4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27ae1af9820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27adbfca040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27adbfca040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27aea7193c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27aec2b6c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647964148356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27adc59ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27adc59ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27ae2f09f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647964460879	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Child 12448, MediaDecoderStateMachine #1] WARNING: 27ad3081ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1647964689405	Marionette	INFO	Stopped listening on port 50328
+1648032722620	geckodriver	INFO	Listening on 127.0.0.1:58193
+1648032728089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58194" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileFRCACn"
+*** You are running in headless mode.
+1648032728305	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:58194/devtools/browser/ab03129b-c2c2-4daf-9269-f257e1763c07
+1648032729482	Marionette	INFO	Listening on port 58199
+1648032729616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 2069 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 237a56d4e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 237998fa900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 237998fa900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379df5bc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 23792a32900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 23792a32900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379f23f900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 237998faac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 237998faac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379e6b3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 237a25bc660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 237a25bc660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 3733 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 23792a44f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 237a15ea4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379b57d900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379b57d900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 1673 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 237998623c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 237a016d740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 23792a44660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 23792a44660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379e876900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379e5e63c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 1676 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379e5e63c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379e1423c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379e142c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379995f740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 2379995f740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 6407 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 23799862d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11452, MediaDecoderStateMachine #1] WARNING: 237a5597040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1648035242846	Marionette	INFO	Stopped listening on port 58199
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648093143871	geckodriver	INFO	Listening on 127.0.0.1:55448
+1648093149437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55449" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileBUQ1dK"
+*** You are running in headless mode.
+1648093149888	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:55449/devtools/browser/344fb85d-3818-4a97-8a0d-792519abf0e9
+1648093151040	Marionette	INFO	Listening on port 62394
+1648093151486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 7932, MediaDecoderStateMachine #1] WARNING: 2bca3d5fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7932, MediaDecoderStateMachine #1] WARNING: 2bca49c5040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7932, MediaDecoderStateMachine #1] WARNING: 2bca49c5040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XiW-l_2i5aVoH8u79KLQHFanU8pv7NVYiw1EHy6cTgU.js line 1 > eval line 732 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7932, MediaDecoderStateMachine #1] WARNING: 2bc94f703c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7932, MediaDecoderStateMachine #1] WARNING: 2bca68b3900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7932, MediaDecoderStateMachine #1] WARNING: 2bc94f8c820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7932, MediaDecoderStateMachine #1] WARNING: 2bc94f8c820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XiW-l_2i5aVoH8u79KLQHFanU8pv7NVYiw1EHy6cTgU.js line 1 > eval line 5704 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648093906939	Marionette	INFO	Stopped listening on port 62394
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648174845920	geckodriver	INFO	Listening on 127.0.0.1:58019
+1648174852042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58020" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileCFnTKM"
+*** You are running in headless mode.
+1648174853134	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:58020/devtools/browser/cf868e0e-3887-45bf-8cdd-5d59d8eadb72
+1648174854813	Marionette	INFO	Listening on port 58026
+1648174855233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 118 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 195458b1040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953a15c740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953a15c740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 6891 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19532bae900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953a1bd120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 195425c3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 195425c3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 195406954a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953a13e4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953a13e4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 7278 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 195399e8ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19542e3ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19532b43c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19532b43c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 4172 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19532b43ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953d8e6820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 195387482e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 195387482e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953d5f1ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19532baed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19532baed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 390 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19538748580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19544449e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19532b31900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19532b31900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 19540bdce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953d9bbba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953d9bbba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953ee94ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953e4d14a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953e4d14a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 2314 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953ea90200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953f6c62e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953db41900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953db41900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 7529 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953b17c040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953eb493c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953990fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2188, MediaDecoderStateMachine #1] WARNING: 1953990fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1648178789494	Marionette	INFO	Stopped listening on port 58026
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1648305533691	geckodriver	INFO	Listening on 127.0.0.1:54163
+1648305542082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54164" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilefYRipC"
+*** You are running in headless mode.
+1648305543777	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54164/devtools/browser/fed38e82-d3dd-4504-b1c6-b965dc67c6cc
+1648305546495	Marionette	INFO	Listening on port 54180
+1648305546949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85afd09e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85587b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85587b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 2141 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e8545ea660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85a0469e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e8545a0660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e8545a0660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 2055 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e84d76f580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85baeb580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e8585e7040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e8585e7040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 5971 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e84d77f580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85bd56040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e84d77fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e84d77fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 410 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e84d795040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85ac8aba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e8545a0660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e8545a0660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85845a740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85a1539e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e8584ce040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e8584ce040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85b0d3200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85589b040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e85589b040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 6528 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12196, MediaDecoderStateMachine #1] WARNING: 1e84d795120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://www.youtube.com/s/player/c6736352/player_ias.vflset/en_US/base.js, line 8829: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648360024590	geckodriver	INFO	Listening on 127.0.0.1:55230
+1648360030279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55231" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileZbPda4"
+*** You are running in headless mode.
+1648360030729	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:55231/devtools/browser/8eb91b6f-162c-47a0-880d-394388f8491d
+1648360031912	Marionette	INFO	Listening on port 55236
+1648360032337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 5616 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14300, MediaDecoderStateMachine #1] WARNING: 218e80f4c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14300, MediaDecoderStateMachine #1] WARNING: 218e3a05d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14300, MediaDecoderStateMachine #1] WARNING: 218e3a05d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 694 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14300, MediaDecoderStateMachine #1] WARNING: 218e0c30c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14300, MediaDecoderStateMachine #1] WARNING: 218e6985c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14300, MediaDecoderStateMachine #1] WARNING: 218d96319e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14300, MediaDecoderStateMachine #1] WARNING: 218d96319e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1648361159345	Marionette	INFO	Stopped listening on port 55236
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648516879817	geckodriver	INFO	Listening on 127.0.0.1:50072
+1648516885865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50073" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileqArMeb"
+*** You are running in headless mode.
+1648516886546	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:50073/devtools/browser/a927980c-7faf-435b-8773-342748dcb933
+1648516888177	Marionette	INFO	Listening on port 50078
+1648516888554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f6d951c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f65e163c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f65e163c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CGHVXjYJRnLTYRF6fgor0GmLhTjmHb-GVf8novFL6vc.js line 1 > eval line 6213 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f665dd900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f66950900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f5a493ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f5a493ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f67b60660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f611fb2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f611fb2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f6674d2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f61d99820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f61d99820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CGHVXjYJRnLTYRF6fgor0GmLhTjmHb-GVf8novFL6vc.js line 1 > eval line 2373 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f61ceb9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f632fe120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f61258040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f66418200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f611ac120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f611ac120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f6641cc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f611acf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f611acf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f6a52a660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f65ff1e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f65ff1e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CGHVXjYJRnLTYRF6fgor0GmLhTjmHb-GVf8novFL6vc.js line 1 > eval line 5634 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f61d31d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f665e8900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f62985200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f62985200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CGHVXjYJRnLTYRF6fgor0GmLhTjmHb-GVf8novFL6vc.js line 1 > eval line 525 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f65856900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f6a21d900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f63798200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f67bc5e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 776, MediaDecoderStateMachine #1] WARNING: 24f6641c200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1648520977078	Marionette	INFO	Stopped listening on port 50078
+1648606264609	geckodriver	INFO	Listening on 127.0.0.1:51474
+1648606270446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51475" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileXlLWwz"
+*** You are running in headless mode.
+1648606270989	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:51475/devtools/browser/01ff6c29-bc63-4b90-a8ba-6d3e45390919
+1648606272386	Marionette	INFO	Listening on port 51480
+1648606272497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 1811 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230d0467e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230cd1dc820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230cfc83580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230d1e64c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230d24e3820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230c84414a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230d01ae200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230c8e23120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230cd86fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230c8f109e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230c8f109e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XiW-l_2i5aVoH8u79KLQHFanU8pv7NVYiw1EHy6cTgU.js line 1 > eval line 4197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230c1573ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230d2c28c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230cd8c9120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230d3528d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230ccd54e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230ccd54e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XiW-l_2i5aVoH8u79KLQHFanU8pv7NVYiw1EHy6cTgU.js line 1 > eval line 5608 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230c1531ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230c9dfaba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230c15319e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8848, MediaDecoderStateMachine #1] WARNING: 230c15319e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://www.youtube.com/s/player/3a393eba/player_ias.vflset/en_US/base.js, line 8825: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648705023461	geckodriver	INFO	Listening on 127.0.0.1:59325
+1648705029494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59326" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileMn7Pb2"
+*** You are running in headless mode.
+1648705030124	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:59326/devtools/browser/a6c3e4ae-45f3-468b-b3e1-22b14d0904a0
+1648705031710	Marionette	INFO	Listening on port 59331
+1648705032183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 4740 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 15064, MediaDecoderStateMachine #1] WARNING: 21d2b673740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 15064, MediaDecoderStateMachine #1] WARNING: 21d1f906580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 6452 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 15064, MediaDecoderStateMachine #1] WARNING: 21d19d89e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 15064, MediaDecoderStateMachine #1] WARNING: 21d26f782e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 15064, MediaDecoderStateMachine #1] WARNING: 21d214bd120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 15064, MediaDecoderStateMachine #1] WARNING: 21d214bd120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 7355 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XFpjqGQyXlGhrIMtqUZEtOx9ZrcGJnYAFO97-LZexEg.js line 1 > eval line 3995 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 15064, MediaDecoderStateMachine #1] WARNING: 21d22280ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1648706407178	Marionette	INFO	Stopped listening on port 59331
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_NotifyProcessPriorityChanged) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHal::Msg_NotifyWakeLockChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHal::Msg_NotifyWakeLockChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_NotifyProcessPriorityChanged) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1648780437021	geckodriver	INFO	Listening on 127.0.0.1:50296
+1648780442675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50297" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileZpbEzZ"
+*** You are running in headless mode.
+1648780443391	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:50297/devtools/browser/7793bd7d-eda0-484f-8c16-1276fe13e96a
+1648780444870	Marionette	INFO	Listening on port 50303
+1648780445385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621f6483c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621eac2820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621734e820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621392fac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621392fac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gjBotrajnK0yz4ntvsDRFlMTAuB3twHveDeuldaHPWQ.js line 1 > eval line 5307 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 26212e8d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621fafbba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 26219c622e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 26219c622e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gjBotrajnK0yz4ntvsDRFlMTAuB3twHveDeuldaHPWQ.js line 1 > eval line 2736 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621a755ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621392f9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621392f9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621392f740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 26213afe820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 26213afe820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gjBotrajnK0yz4ntvsDRFlMTAuB3twHveDeuldaHPWQ.js line 1 > eval line 6213 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 26212e8f580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 262160ddc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621734e660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 26218764740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 26217547e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gjBotrajnK0yz4ntvsDRFlMTAuB3twHveDeuldaHPWQ.js line 1 > eval line 6229 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 26217547e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2620c1a2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3692, MediaDecoderStateMachine #1] WARNING: 2621a607e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1648795719958	geckodriver	INFO	Listening on 127.0.0.1:64822
+1648795725966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64823" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileCf0plE"
+*** You are running in headless mode.
+1648795726467	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:64823/devtools/browser/30996a8b-ee45-473b-895c-2b24c0bbc01c
+1648795727863	Marionette	INFO	Listening on port 64832
+1648795728044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 5426 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14180, MediaDecoderStateMachine #1] WARNING: 1b46b6ae2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14180, MediaDecoderStateMachine #1] WARNING: 1b46eed1740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14180, MediaDecoderStateMachine #1] WARNING: 1b467f903c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14180, MediaDecoderStateMachine #1] WARNING: 1b470ff73c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14180, MediaDecoderStateMachine #1] WARNING: 1b46d7a8d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14180, MediaDecoderStateMachine #1] WARNING: 1b470d59660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 14180, MediaDecoderStateMachine #1] WARNING: 1b470b833c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://www.youtube.com/s/player/449ea0a5/player_ias.vflset/en_US/base.js, line 8823: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648863021101	geckodriver	INFO	Listening on 127.0.0.1:63921
+1648863026717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63922" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilepMNym5"
+*** You are running in headless mode.
+1648863027280	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:63922/devtools/browser/fdaf5b93-9890-46f3-9b71-1d7feb3b833e
+1648863028617	Marionette	INFO	Listening on port 63928
+1648863028774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 2573 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7640, MediaDecoderStateMachine #1] WARNING: 2173a2f1f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7640, MediaDecoderStateMachine #1] WARNING: 21733f379e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7640, MediaDecoderStateMachine #1] WARNING: 21733f379e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 953 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 7640, MediaDecoderStateMachine #1] WARNING: 21732d83820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://www.youtube.com/s/player/449ea0a5/player_ias.vflset/en_US/base.js, line 8823: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648864916303	geckodriver	INFO	Listening on 127.0.0.1:64764
+1648864921970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64765" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileYsX9VJ"
+*** You are running in headless mode.
+1648864922494	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:64765/devtools/browser/37881224-6e6b-46bd-b9e5-9e1dd0afca5f
+1648864923774	Marionette	INFO	Listening on port 64775
+1648864924036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 3977 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 2025703e3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://www.gstatic.com/charts/51/js/jsapi_compiled_graphics_module.js, line 5: Script terminated by timeout at:
+gvjs_V@https://www.gstatic.com/charts/51/js/jsapi_compiled_graphics_module.js:5:41
+@https://www.gstatic.com/charts/51/js/jsapi_compiled_ui_module.js:29:22
+
+JavaScript error: https://www.gstatic.com/charts/51/js/jsapi_compiled_corechart_module.js, line 2: TypeError: this.cc is not a function
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20257c21660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20257c21660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 2025a5f6d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20255439d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20255439d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20256e36580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 2025a5f64a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2608 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 2025a5f64a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 202554392e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20261e7e4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 2025703ec80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 2025703ec80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 2025b4a0c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20258d96120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 2025917e120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 2025917e120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 5087 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 2024f943900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 2025b7a8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20258d96c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 6302 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20258d96c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20255492120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 202570b7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20256e36200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20256e36200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4988 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20255492ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 202567eff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20257e3e9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20258fe39e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 2732, MediaDecoderStateMachine #1] WARNING: 20258fe39e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2572 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648868345842	Marionette	INFO	Stopped listening on port 64775
+1648956980309	geckodriver	INFO	Listening on 127.0.0.1:63011
+1648956986293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63012" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileYiyXTJ"
+*** You are running in headless mode.
+1648956986947	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:63012/devtools/browser/f7974a4d-45b1-4db9-b44a-f3ff21350be1
+1648956988425	Marionette	INFO	Listening on port 63017
+1648956988467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b06adeac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b06adeac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0a9b04a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0a9b04a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/FyXTnIqgf3MR1shnyKQtc5k9nN1KItMFAbgv4xYT2II.js line 1 > eval line 6805 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0a6964a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b07e67f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b07e67f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b069f8c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b069f8c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b1026b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b1026b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0941e740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0941e740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/FyXTnIqgf3MR1shnyKQtc5k9nN1KItMFAbgv4xYT2II.js line 1 > eval line 2921 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b061e5120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b07e4d740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b07e4d740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0a505f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0a505f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0a9499e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0a9499e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b07d153c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b07d153c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/FyXTnIqgf3MR1shnyKQtc5k9nN1KItMFAbgv4xYT2II.js line 1 > eval line 5036 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b061e5580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0a16d9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0a16d9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0a505d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b0a505d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b09ab7d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b09ab7d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b06fc4e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11164, MediaDecoderStateMachine #1] WARNING: 15b06fc4e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1648959242517	Marionette	INFO	Stopped listening on port 63017
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649139469963	geckodriver	INFO	Listening on 127.0.0.1:54535
+1649139476996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54536" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofile1iRC8t"
+*** You are running in headless mode.
+1649139477582	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54536/devtools/browser/25006f0e-bb4b-42b3-b1cf-3ee7b20b9794
+1649139479115	Marionette	INFO	Listening on port 54551
+1649139479178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 7702 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7fc62d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7fc62d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec786bef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec786bef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/FyXTnIqgf3MR1shnyKQtc5k9nN1KItMFAbgv4xYT2II.js line 1 > eval line 4129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec75ecf740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7ac43ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7ac43ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec6d873120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec6d873120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7880d3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7880d3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec78449120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec78846ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649140736108	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec78846ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec768f6820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649140977183	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec768f6820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec746d64a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec746d64a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/FyXTnIqgf3MR1shnyKQtc5k9nN1KItMFAbgv4xYT2II.js line 1 > eval line 702 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec746d63c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7a7a5ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7a7a5ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7458ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7458ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/FyXTnIqgf3MR1shnyKQtc5k9nN1KItMFAbgv4xYT2II.js line 1 > eval line 4929 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec745cb9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec78404120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec78404120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7670dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7670dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/FyXTnIqgf3MR1shnyKQtc5k9nN1KItMFAbgv4xYT2II.js line 1 > eval line 3450 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7888fc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7888fc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7473a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7473a200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7833ee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec7833ee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec74e8b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec74e8b660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec75c39660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649142197621	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec75c39660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec6d873120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec6d873120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V_I9kkE0weacsZYJ7hXHsf1U2l7Bs5zHQi7wjQJaUfA.js line 1 > eval line 7148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec6d873900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec75c83820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649142432965	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec75c83820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec6d873d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4476, MediaDecoderStateMachine #1] WARNING: 1ec6d873d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649142661566	Marionette	INFO	Stopped listening on port 54551
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1649222636242	geckodriver	INFO	Listening on 127.0.0.1:58931
+1649222642372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58932" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilehE5p6k"
+*** You are running in headless mode.
+1649222643196	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:58932/devtools/browser/0548a204-b90e-41e8-b698-7014b0b52b39
+1649222645095	Marionette	INFO	Listening on port 58944
+1649222645574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221c4bb8040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221c4bb8040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221c0180e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221bedf8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221bedf8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221c04aeba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221be837200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221be73ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221be73ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221c3505c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221c3505c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221be446200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221be8969e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221bd9db2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221bd9db2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V_I9kkE0weacsZYJ7hXHsf1U2l7Bs5zHQi7wjQJaUfA.js line 1 > eval line 7067 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649224858811	Marionette	INFO	Stopped listening on port 58944
+[Child 11480, MediaDecoderStateMachine #1] WARNING: 221b6243660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649388632747	geckodriver	INFO	Listening on 127.0.0.1:55596
+1649388653742	geckodriver	INFO	Listening on 127.0.0.1:55610
+1649388659771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55611" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilezHRpRF"
+*** You are running in headless mode.
+1649388660548	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:55611/devtools/browser/8321867e-065c-44eb-b415-a3c76bbfcb54
+1649388662135	Marionette	INFO	Listening on port 55616
+1649388662451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 4956 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd8a06d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd7ef3e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd7ef3e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 908 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd08b0660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bdc6ad820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd5b87f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd5b87f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 5713 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd5b87f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bdc66d740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bdc66d740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd74cad60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd74cad60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bdc4ecc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bdc4ecc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd0856ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd0856ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 3966 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bdb951c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd8d7a2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd8d7a2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 11328, MediaDecoderStateMachine #1] WARNING: 23bd08b09e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649391995356	Marionette	INFO	Stopped listening on port 55616
+[Parent 8880, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649439606363	geckodriver	INFO	Listening on 127.0.0.1:51476
+1649439612084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51477" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileBqAdFY"
+*** You are running in headless mode.
+1649439612544	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:51477/devtools/browser/bf76cf0a-6865-4f15-b52f-3782092097f1
+1649439613786	Marionette	INFO	Listening on port 51482
+1649439614171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 5793 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d49d3660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d49d3660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1da7fa120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1da7fa120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d17b1ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d17b1ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d64d4e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d64d4e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d6204ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d1769740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d1769740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d197f820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d23602e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d23602e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d73ee820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5664, MediaDecoderStateMachine #1] WARNING: 1a1d73ee820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649442648387	Marionette	INFO	Stopped listening on port 51482
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649784906155	geckodriver	INFO	Listening on 127.0.0.1:60331
+1649784913548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60332" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilejqzWmZ"
+*** You are running in headless mode.
+1649784914630	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:60332/devtools/browser/77850988-3d9e-4fe7-8e7a-167f671b37fc
+1649784917442	Marionette	INFO	Listening on port 60337
+1649784917851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 298863f0f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 298863f0f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 298884add60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 2988590a2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 2988590a2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 298820462e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 298820462e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29881788d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29881788d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29884ac0900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29884ac0900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29884236740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29884236740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29884bfcac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29884bfcac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29884237ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29884237ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 2988ca37ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 298f6d97e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 298f6d97e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 2988b7e2ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649789627734	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 2988b7e2ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 2988dfb0d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 2988dfb0d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29881aeaf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 1712 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 2988007cac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 2988b2233c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 2988b2233c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29884552740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 4372, MediaDecoderStateMachine #1] WARNING: 29884552740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649792021826	Marionette	INFO	Stopped listening on port 60337
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1649828534584	geckodriver	INFO	Listening on 127.0.0.1:62504
+1649828539996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62505" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileuwCf9e"
+*** You are running in headless mode.
+1649828540887	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:62505/devtools/browser/9a65f190-ec82-4636-a446-8c1cf93e564f
+1649828542360	Marionette	INFO	Listening on port 62511
+1649828542678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266deb05ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d1288900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266de935740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266cbf41740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266cbf41740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 6632 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d2bcb200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d925bf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d3e41660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d3e41660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266df1a5ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266cbf412e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266cbf412e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 2362 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d2bcb820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d8be9740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d3e41ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d3e41ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 7303 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d2bcb2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266df4e6200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d2bcb120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d2bcb120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1340, MediaDecoderStateMachine #1] WARNING: 266d8fa1660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649906791898	geckodriver	INFO	Listening on 127.0.0.1:54901
+1649906797415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54902" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilewJhogB"
+*** You are running in headless mode.
+1649908139455	geckodriver	INFO	Listening on 127.0.0.1:60045
+1649908153345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60046" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileJjpRt5"
+*** You are running in headless mode.
+1649908154873	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:60046/devtools/browser/e21ee008-853a-415d-b5e3-da1432590524
+1649908156974	Marionette	INFO	Listening on port 60091
+1649908157172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 2357 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 225136259e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22510e6fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 225117402e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 225117402e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: https://tpc.googlesyndication.com/sodar/5k7CCto5.html, line 11: uncaught exception: 7
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2250a18f820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22511750040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2251173fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2251173fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 3276 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22510e6f900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22510e6fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22510e6fc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22510e6fc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22513365ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22510ed4ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22510ed4ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 6662 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2250a156c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2251173f2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2250f5c73c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2250f5c73c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22511d1e2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2251173f660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2251173f660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22514eb4900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 225159e6f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 225159e6f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 5259 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22510e6f040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22516793580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2250a18f120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2250a18f120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22513670740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 225135bf660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 225135bf660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 6095 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22510e6ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 2251befd820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 5364, MediaDecoderStateMachine #1] WARNING: 22511740900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649912483162	Marionette	INFO	Stopped listening on port 60091
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
