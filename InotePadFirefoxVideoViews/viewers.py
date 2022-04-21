@@ -25,6 +25,7 @@ urls = []
 message = ""
 driver = None
 def comment_page(driver, comment):
+    print(">>>>comment_page: START")
     time.sleep(2)
     driver.execute_script("window.scrollTo(0, window.scrollY + 500)")
     time.sleep(1)
@@ -119,7 +120,8 @@ def views_page(driver,urls,comment):
         requests.post('https://www.inotepad.cloud/videoSuccess', json={"_id": itemObj['_id']})
         print(">>>update views")
         if(hasLike==0):
-            driver.find_element_by_xpath('/html/body/ytd-app/div/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[6]/div[2]/ytd-video-primary-info-renderer/div/div/div[3]/div/ytd-menu-renderer/div/ytd-toggle-button-renderer[1]').click()
+            print(">>>>>progress video:",t1)
+            driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[6]/div[1]/div[2]/ytd-video-primary-info-renderer/div/div/div[3]/div/ytd-menu-renderer/div[1]/ytd-toggle-button-renderer[1]').click()
         print(">>>>>Like video:",t1)
         #comment video
         if(varComment.get() == 1):

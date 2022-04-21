@@ -1509,3 +1509,84 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQu
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1650089015350	geckodriver	INFO	Listening on 127.0.0.1:52019
+1650089023562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52020" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilegLmqPc"
+*** You are running in headless mode.
+1650089024645	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:52020/devtools/browser/623a9941-749a-4e9d-b0e8-9bdb442ec2ed
+1650089027009	Marionette	INFO	Listening on port 52043
+1650089027253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 6226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 2172fc65120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 21727756e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 21727756e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 2172fb64200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 21735dcb900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 2172778d040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 2172778d040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 2173256b4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 2172fb78e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 21737aaa820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/287vsxWa92ZzAf4Hva6mMSSE5qc9GsoRRsyFmqSdVGI.js line 1 > eval line 7719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 2172fcfb040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 21730948740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 2172f347f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9440, MediaDecoderStateMachine #1] WARNING: 2172f347f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650091231877	Marionette	INFO	Stopped listening on port 52043
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1650512931062	geckodriver	INFO	Listening on 127.0.0.1:61875
+1650512936664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61876" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileZc7AsM"
+*** You are running in headless mode.
+1650512937113	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:61876/devtools/browser/21e245b2-8f8f-4cf3-bd47-a0337f41efdb
+1650512938364	Marionette	INFO	Listening on port 61894
+1650512938694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 3297 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-04-21T03:49:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T03:49:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T03:49:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T03:49:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 1976, MediaDecoderStateMachine #1] WARNING: 1e5d19fee40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1976, MediaDecoderStateMachine #1] WARNING: 1e5dcad4580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1976, MediaDecoderStateMachine #1] WARNING: 1e5d25d59e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 1976, MediaDecoderStateMachine #1] WARNING: 1e5d25d59e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650514239074	geckodriver	INFO	Listening on 127.0.0.1:62595
+1650514244997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62596" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofile8Q9OOY"
+1650514245306	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:62596/devtools/browser/24db1bed-7d22-409e-ad87-15599e134490
+1650514247480	Marionette	INFO	Listening on port 62601
+1650514247657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-21T04:10:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:10:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:10:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:10:55Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 9080, MediaDecoderStateMachine #1] WARNING: 1c48e6a3740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650514259022	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[Child 9080, MediaDecoderStateMachine #1] WARNING: 1c48f80a2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 9080, MediaDecoderStateMachine #1] WARNING: 1c48f80a2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iDHsPPU-w9vlnufKSHbr26QNWWZn22uKUKQjwtrxHns.js line 1 > eval line 442 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+1650514545480	Marionette	INFO	Stopped listening on port 62601
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+

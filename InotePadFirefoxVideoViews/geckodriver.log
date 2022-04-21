@@ -1000,3 +1000,99 @@ observe@resource://gre/modules/AsyncShutdown.jsm:575:16
 JavaScript error: resource://gre/modules/CrashManager.jsm, line 1126: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
 JavaScript error: resource://gre/modules/CrashManager.jsm, line 1126: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
 JavaScript error: resource://gre/modules/CrashManager.jsm, line 1126: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1650514652827	geckodriver	INFO	Listening on 127.0.0.1:62762
+1650514660087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62763" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilem5e2F2"
+1650514660413	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:62763/devtools/browser/6a50146e-1356-44c6-9c0c-632c80d009f8
+1650514662480	Marionette	INFO	Listening on port 62768
+1650514662806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-21T04:17:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:17:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:17:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 97 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-04-21T04:17:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 7480, MediaDecoderStateMachine #1] WARNING: 20ef5b12040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7480, MediaDecoderStateMachine #1] WARNING: 20ef8f739e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 7480, MediaDecoderStateMachine #1] WARNING: 20eeed214a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650515313525	Marionette	INFO	Stopped listening on port 62768
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650515338555	geckodriver	INFO	Listening on 127.0.0.1:62921
+1650515345305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62922" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileVn9ZMJ"
+1650515345712	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:62922/devtools/browser/1c9240d9-3524-485c-94a1-f38612154254
+1650515347515	Marionette	INFO	Listening on port 62927
+1650515347993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 251 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-04-21T04:29:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:29:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:29:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:29:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 6148, MediaDecoderStateMachine #1] WARNING: 25be8e7eba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1650516030394	Marionette	INFO	Stopped listening on port 62927
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+50515784576	Marionette	INFO	Listening on port 63178
+1650515784702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-21T04:36:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:36:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:36:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:36:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 3752 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 6300, MediaDecoderStateMachine #1] WARNING: 14ea18234a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650515792716	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[2022-04-21T04:41:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:41:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:41:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:41:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 6300, MediaDecoderStateMachine #1] WARNING: 14eb0724f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650516080968	Marionette	INFO	Stopped listening on port 63178
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1650516185264	geckodriver	INFO	Listening on 127.0.0.1:63436
+1650516191953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63437" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilevZPgMq"
+1650516192255	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63437/devtools/browser/839f392d-336b-4725-8519-25053f04d506
+1650516194468	Marionette	INFO	Listening on port 63442
+1650516194614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-21T04:43:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:43:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 5565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-04-21T04:43:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:43:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 3624, MediaDecoderStateMachine #1] WARNING: 20c82a8ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3624, MediaDecoderStateMachine #1] WARNING: 20c8d868e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 3624, MediaDecoderStateMachine #1] WARNING: 20c8d868e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-21T04:48:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:48:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:48:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:48:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 3624, MediaDecoderStateMachine #1] WARNING: 20c8cb96d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650517086872	geckodriver	INFO	Listening on 127.0.0.1:63741
+1650517094072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63742" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileuR31wr"
+1650517094484	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:63742/devtools/browser/12a4e76d-924e-47b0-b695-8e846f0a1046
+1650517096999	Marionette	INFO	Listening on port 63750
+1650517097265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-21T04:58:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:58:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:58:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T04:58:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 8660, MediaDecoderStateMachine #1] WARNING: 201a0e19040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650517359475	Marionette	INFO	Stopped listening on port 63750
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
