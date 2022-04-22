@@ -1590,3 +1590,165 @@ JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeEr
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
 
+1650520176764	geckodriver	INFO	Listening on 127.0.0.1:60853
+1650520182926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60854" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofiledwQMmS"
+*** You are running in headless mode.
+1650520183166	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:60854/devtools/browser/7d5d6b7f-594b-4adc-8e22-a65fd1ef81d8
+1650520184577	Marionette	INFO	Listening on port 60859
+1650520184981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-21T05:49:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T05:49:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T05:49:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T05:49:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 92 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b6f5a9d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b67e60ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b67e60ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iDHsPPU-w9vlnufKSHbr26QNWWZn22uKUKQjwtrxHns.js line 1 > eval line 3606 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b658c5f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-21T05:54:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T05:54:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T05:54:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T05:54:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b6de76580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b6744ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b6744ce40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iDHsPPU-w9vlnufKSHbr26QNWWZn22uKUKQjwtrxHns.js line 1 > eval line 5609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b60656c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-21T06:07:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:07:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:07:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:07:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b6b9c3c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b6b432e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b6b432e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iDHsPPU-w9vlnufKSHbr26QNWWZn22uKUKQjwtrxHns.js line 1 > eval line 5626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b67e813c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-21T06:11:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:11:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:11:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:11:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b6d3612e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b673fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b673fc4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-21T06:13:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:13:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:13:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:13:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b6f597ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b6b4323c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iDHsPPU-w9vlnufKSHbr26QNWWZn22uKUKQjwtrxHns.js line 1 > eval line 6799 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b6b4323c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b673fc3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-21T06:20:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:20:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:20:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-21T06:20:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 8656, MediaDecoderStateMachine #1] WARNING: 11b706232e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650522580202	Marionette	INFO	Stopped listening on port 60859
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1650597548184	geckodriver	INFO	Listening on 127.0.0.1:60202
+1650597553677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60203" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileBpznvn"
+*** You are running in headless mode.
+1650597553939	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:60203/devtools/browser/b4603832-28ca-4b0d-a87d-250779a021f5
+1650597555237	Marionette	INFO	Listening on port 60208
+1650597555754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 4787 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-04-22T03:19:20Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:19:20Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:19:20Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:19:20Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82fab9120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82b887c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-22T03:24:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:24:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:24:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:24:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82af6c820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82e5ac2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82e5ac2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2o4cWLNalU19nN7vA12WZhb1qS4KDqIWPmZT-glBuk.js line 1 > eval line 765 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e8275e13c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-22T03:27:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:27:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:27:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:27:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82d647ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e8275ac820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e8275ac820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2o4cWLNalU19nN7vA12WZhb1qS4KDqIWPmZT-glBuk.js line 1 > eval line 3107 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e81fe70f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-22T03:30:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:30:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:30:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:30:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e826bfd2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e8275e1c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-22T03:38:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:38:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:38:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:38:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82dbf9c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82766d3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82766d3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-22T03:41:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:41:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:41:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:41:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82b4414a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82af412e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82af412e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2o4cWLNalU19nN7vA12WZhb1qS4KDqIWPmZT-glBuk.js line 1 > eval line 7811 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e828078f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-22T03:49:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:49:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:49:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:49:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82bf4de40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e81fe70740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e81fe70740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2o4cWLNalU19nN7vA12WZhb1qS4KDqIWPmZT-glBuk.js line 1 > eval line 7363 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e81fe70660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-22T03:54:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:54:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:54:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:54:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82b321ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e8286c0d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e8286c0d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/l2o4cWLNalU19nN7vA12WZhb1qS4KDqIWPmZT-glBuk.js line 1 > eval line 7039 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e828120ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[2022-04-22T03:57:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:57:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:57:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-22T03:57:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e8284d5660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 6528, MediaDecoderStateMachine #1] WARNING: 1e82b518820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650600069754	Marionette	INFO	Stopped listening on port 60208
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+

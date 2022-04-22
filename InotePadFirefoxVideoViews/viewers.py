@@ -15,12 +15,13 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 window = Tk()
-window.geometry('430x300')
+window.geometry('430x330')
 window.title('INotepad.cloud - Phần mềm Views')
 window.iconbitmap('G:\Coder\Build Project\Apps\InotePadFirefoxVideoViews\icon.ico')
 window.resizable(0, 0)
 
 listData = []
+page = 0
 urls = []
 message = ""
 driver = None
@@ -78,7 +79,7 @@ def applyData():
         btnWatch["state"] = "normal"
     delTreeview()
     addTreeView(listData)
-def views_page(driver,urls,comment):
+def views_page(driver,urls,comment,page):
     if len(urls) == 0:
         print("============================================================================================================")
         print('Finished keyword jumping to next one...')
@@ -99,6 +100,7 @@ def views_page(driver,urls,comment):
     
     duration = driver.find_element_by_class_name("ytp-time-duration").text
     print(">>>>>duration: ",duration)
+    
     try:
         x = time.strptime(duration, '%M:%S')
         timer = datetime.timedelta(minutes=x.tm_min, seconds=x.tm_sec).total_seconds()
@@ -125,10 +127,14 @@ def views_page(driver,urls,comment):
         print(">>>>>Like video:",t1)
         #comment video
         if(varComment.get() == 1):
-            comment_page(driver,comment)
+            print("Page current: ",page)
+            if(int(page)!=0):
+                comment_page(driver,comment)
+                page = int(page) - 1
+                print("Page update: ",page)
         time.sleep(t2)
         print(">>>>>Next Video:",t2+t1)
-    views_page(driver,urls,random_comment())
+    views_page(driver,urls,random_comment(),page)
     
 def autoBrowser():
     configProfile = open("profile.txt", "r")
@@ -151,7 +157,15 @@ def autoBrowser():
         options.headless = False
     driver = webdriver.Firefox(options=options,executable_path="geckodriver.exe",firefox_profile=profile, desired_capabilities=desired)
     print(">>>>>>>>>>>>>>type",type(driver))
-    views_page(driver,urls,random_comment())
+    try:
+        if(int(number_page.get()) != 0):
+            page = int(number_page.get())
+        else:
+            page = len(urls)
+    except ValueError:
+        print(">>>>>>>not number")
+        page = len(urls)
+    views_page(driver,urls,random_comment(),page)
     driver.close()
 
 def thread_func(name):
@@ -162,6 +176,8 @@ def thread_func(name):
     print('Thread %s: finished',name)
 
 def proccessWatch():
+    if(varReverse.get() == 1):
+        urls.reverse()
     tx = threading.Thread(target=thread_func,args=(1,))
     tx.start()
     
@@ -211,11 +227,13 @@ my_tree.heading("Url",text="Url",anchor=W)
 
 varMute = IntVar()
 varHeadless = IntVar()
+varReverse = IntVar()
 varComment = IntVar()
 chkHeadless = Checkbutton(window, variable=varHeadless, text="Headless",onvalue=1,offvalue=0)
 chkHeadless.select()
 chkMute = Checkbutton(window, variable=varMute, text="Mute audio",onvalue=1,offvalue=0)
 chkMute.select()
+chkReverse = Checkbutton(window, variable=varReverse, text="Reverse",onvalue=1,offvalue=0)
 chkComment = Checkbutton(window, variable=varComment, text="Comment",onvalue=1,offvalue=0)
 chkComment.select()
 btnWatch = Button(window,text="Watch",command=proccessWatch)
@@ -223,13 +241,18 @@ btnWatch["state"] = "disabled"
 
 chkHeadless.grid(row=2,column=0)
 chkMute.grid(row=2,column=1)
-chkComment.grid(row=2,column=2)
+chkReverse.grid(row=2,column=2)
+chkComment.grid(row=3,column=2)
 btnWatch.grid(row=1,column=4)
 #add Data
-my_tree.grid(row=3,columnspan =5,sticky=tk.W)
+my_tree.grid(row=4,columnspan =5,sticky=tk.W)
 labelMessage = StringVar()
-lblmessage = Label(window,textvariable=labelMessage).grid(row=4,columnspan=5)
+lblmessage = Label(window,textvariable=labelMessage).grid(row=5,columnspan=5)
 
+Label(window,text="Comments").grid(row=3,column=0)
+num = StringVar(window, value='6')
+number_page = Entry(window,width=15,textvariable=num)
+number_page.grid(row=3,column=1)
 
 def on_closing():
     try:
