@@ -97,9 +97,8 @@ def autoBrowser():
     driver = webdriver.Firefox(options=options,executable_path="geckodriver.exe",firefox_profile=profile, desired_capabilities=desired)
     print(">>>>>>>>>>>>>>type",type(driver))
     try:
-        int(number_page.get())
-        if(number_page.get() != 0):
-            page = number_page.get()
+        if(int(number_page.get()) != 0):
+            page = int(number_page.get())
         else:
             page = len(urls)
     except ValueError:
@@ -117,9 +116,8 @@ def thread_func(name):
 
 def proccessWatch():
     try:
-        int(number_page.get())
-        if(number_page.get() != 0):
-            page = number_page.get()
+        if(int(number_page.get()) != 0):
+            page = int(number_page.get())
         else:
             page = len(urls)
     except ValueError:
