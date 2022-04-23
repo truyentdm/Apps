@@ -7,14 +7,12 @@ import yt_dlp
 import os
 import threading
 
-
-
-
 window = Tk()
-window.geometry('430x320')
+window.geometry('333x300')
 window.title('INotepad.cloud - Phần mềm Youtube DL')
-window.iconbitmap('G:\Coder\Build Project\Apps\YoutubeDL\Apps\icon.ico')
-window.resizable(0, 0)
+window.iconbitmap('.\icon.ico')
+# window.resizable(0, 0)
+window.minsize(333, 300)
 
 listData = []
 urls = []

@@ -1258,3 +1258,121 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/JAPUMHT_zNnrVfwA4fX
 [2022-04-22T10:35:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 [2022-04-22T10:35:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 [Child 9992, MediaDecoderStateMachine #1] WARNING: 26d988d8f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650722667022	geckodriver	INFO	Listening on 127.0.0.1:51544
+1650722674837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51545" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofile3kUMAe"
+1650722675219	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51545/devtools/browser/223d832f-4d42-4e2d-8f82-cd72c9ff143e
+1650722677196	Marionette	INFO	Listening on port 51553
+1650722677522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-23T14:04:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:04:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:04:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:04:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 2322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/534c466c/player_ias.vflset/en_US/base.js, line 8737: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1650722746495	geckodriver	INFO	Listening on 127.0.0.1:51666
+1650722754337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51667" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilewIxyTu"
+1650722754676	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51667/devtools/browser/0c69a098-94aa-414f-8d36-85bafaf9a8b5
+1650722756743	Marionette	INFO	Listening on port 51677
+1650722757022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-23T14:06:01Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:06:01Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:06:01Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:06:01Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 1216, MediaDecoderStateMachine #1] WARNING: 22ad38f6f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650723101516	geckodriver	INFO	Listening on 127.0.0.1:51941
+1650723108979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51942" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofileOOCMvk"
+1650723109252	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51942/devtools/browser/2aaaf037-bde1-4f0f-875e-724131d0614e
+1650723111444	Marionette	INFO	Listening on port 51961
+1650723111659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-23T14:11:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:11:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:11:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:11:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://www.youtube.com/s/player/534c466c/player_ias.vflset/en_US/base.js, line 8737: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1650723119334	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[2022-04-23T14:12:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:12:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:12:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:12:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 15264, MediaDecoderStateMachine #1] WARNING: 1fe29b8a2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650723126835	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1650723134239	Marionette	INFO	Stopped listening on port 51961
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 8348, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650723156261	geckodriver	INFO	Listening on 127.0.0.1:52091
+1650723163865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52092" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofile3u4YoI"
+1650723164304	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:52092/devtools/browser/39ca4e79-da6c-47fe-a361-f07b72c63fa9
+1650723166470	Marionette	INFO	Listening on port 52101
+1650723166556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-23T14:12:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:12:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:12:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:12:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 1506 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/534c466c/player_ias.vflset/en_US/base.js, line 8737: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-04-23T14:13:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:13:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:13:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:13:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 15072, MediaDecoderStateMachine #1] WARNING: 1a6cdfbb9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650723410424	geckodriver	INFO	Listening on 127.0.0.1:53008
+1650723416371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53009" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofile4gJ48g"
+1650723416683	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:53009/devtools/browser/b02149bd-ac96-42c7-bacb-18c169e1baff
+1650723418486	Marionette	INFO	Listening on port 53017
+1650723418555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 2985 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/534c466c/player_ias.vflset/en_US/base.js, line 8737: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-04-23T14:17:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:17:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:17:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:17:05Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:17:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:17:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:17:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:17:10Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 9384, MediaDecoderStateMachine #1] WARNING: 217e5d98740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650723438468	Marionette	INFO	Stopped listening on port 53017
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1650724540942	geckodriver	INFO	Listening on 127.0.0.1:59996
+1650724547490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59997" "-no-remote" "-profile" "C:\\Users\\TRUYEN~1\\AppData\\Local\\Temp\\rust_mozprofilelc420e"
+1650724547895	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:59997/devtools/browser/3d99b6da-d690-4079-b58e-441ce4a8104d
+1650724550100	Marionette	INFO	Listening on port 60005
+1650724550187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-23T14:35:55Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:35:55Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:35:55Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:35:55Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://www.youtube.com/s/player/534c466c/player_ias.vflset/en_US/base.js, line 8737: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 1029 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-04-23T14:36:01Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:36:01Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:36:01Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-23T14:36:01Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 12316, MediaDecoderStateMachine #1] WARNING: 1d839ae7820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1650724571691	Marionette	INFO	Stopped listening on port 60005
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+

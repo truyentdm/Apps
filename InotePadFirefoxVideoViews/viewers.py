@@ -17,8 +17,9 @@ from selenium.webdriver.support import expected_conditions as EC
 window = Tk()
 window.geometry('430x330')
 window.title('INotepad.cloud - Phần mềm Views')
-window.iconbitmap('G:\Coder\Build Project\Apps\InotePadFirefoxVideoViews\icon.ico')
-window.resizable(0, 0)
+window.iconbitmap('.\icon.ico')
+# window.resizable(0, 0)
+window.minsize(430, 330)
 
 listData = []
 page = 0
@@ -99,41 +100,42 @@ def views_page(driver,urls,comment,page):
         driver.find_element_by_xpath('//*[@id="player"]').click()
     
     duration = driver.find_element_by_class_name("ytp-time-duration").text
+    hasDuration = (duration!="")
     print(">>>>>duration: ",duration)
-    
-    try:
-        x = time.strptime(duration, '%M:%S')
-        timer = datetime.timedelta(minutes=x.tm_min, seconds=x.tm_sec).total_seconds()
-        print(">>>>>timer try:",timer)
-    except:
-        timer = 300
-        print(">>>>>timer except:",timer)
-    finally:
-        if(25>timer): 
-            startNum = timer
-        else:
-            startNum = 25
-        t1 = random.randint(startNum, timer)
-        t2 = timer - t1
-        print("t1:",t1," t2:",t2)
-        time.sleep(t1)
-        hasLike = len(driver.find_elements_by_class_name("style-default-active"))
-        print('>>>>>hasLike',hasLike)
-        requests.post('https://www.inotepad.cloud/videoSuccess', json={"_id": itemObj['_id']})
-        print(">>>update views")
-        if(hasLike==0):
-            print(">>>>>progress video:",t1)
-            driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[6]/div[1]/div[2]/ytd-video-primary-info-renderer/div/div/div[3]/div/ytd-menu-renderer/div[1]/ytd-toggle-button-renderer[1]').click()
-        print(">>>>>Like video:",t1)
-        #comment video
-        if(varComment.get() == 1):
-            print("Page current: ",page)
-            if(int(page)!=0):
-                comment_page(driver,comment)
-                page = int(page) - 1
-                print("Page update: ",page)
-        time.sleep(t2)
-        print(">>>>>Next Video:",t2+t1)
+    if(duration != ""):
+        try:
+            x = time.strptime(duration, '%M:%S')
+            timer = datetime.timedelta(minutes=x.tm_min, seconds=x.tm_sec).total_seconds()
+            print(">>>>>timer try:",timer)
+        except:
+            timer = 300
+            print(">>>>>timer except:",timer)
+        finally:
+            if(25>timer): 
+                startNum = timer
+            else:
+                startNum = 25
+            t1 = random.randint(startNum, timer)
+            t2 = timer - t1
+            print("t1:",t1," t2:",t2)
+            time.sleep(t1)
+            hasLike = len(driver.find_elements_by_class_name("style-default-active"))
+            print('>>>>>hasLike',hasLike)
+            requests.post('https://www.inotepad.cloud/videoSuccess', json={"_id": itemObj['_id']})
+            print(">>>update views")
+            if(hasLike==0):
+                print(">>>>>progress video:",t1)
+                driver.find_element_by_xpath('/html/body/ytd-app/div[1]/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[6]/div[1]/div[2]/ytd-video-primary-info-renderer/div/div/div[3]/div/ytd-menu-renderer/div[1]/ytd-toggle-button-renderer[1]').click()
+            print(">>>>>Like video:",t1)
+            #comment video
+            if(varComment.get() == 1):
+                print("Page current: ",page)
+                if(int(page)!=0):
+                    comment_page(driver,comment)
+                    page = int(page) - 1
+                    print("Page update: ",page)
+            time.sleep(t2)
+            print(">>>>>Next Video:",t2+t1)
     views_page(driver,urls,random_comment(),page)
     
 def autoBrowser():
