@@ -1,0 +1,1 @@
+for %%a in ("C:\Users\dmt\Desktop\1d\*.mp4") do bin\ffmpeg -ss 00:00:30 -i  "%%a" -codec copy "C:\Users\dmt\Desktop\TEST\%%~na.mp4"

@@ -1,0 +1,3 @@
+@echo off
+for %%i in (temp\*.mp4) do (
+call bin\code_end.bat "%%i")
