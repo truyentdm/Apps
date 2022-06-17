@@ -70,7 +70,7 @@ def fnCutEnd(folderIn):
     return txtCutEnd
 
 def fnCutFirst(folderIn,folderOut,strTime):
-    txtCutFirst = "for %%a in (\""+folderIn+"\\*.mp4\") do bin\\ffmpeg -ss "+strTime+" -i  \"%%a\" -codec copy \""+folderOut+"\\%%~na.mp4\""
+    txtCutFirst = "for %%a in (\""+folderIn+"\\*.mp4\") do bin\\ffmpeg -y -ss "+strTime+" -i  \"%%a\" -codec copy \""+folderOut+"\\%%~na.mp4\""
     return txtCutFirst
 
 # Proccess

@@ -1,5 +1,5 @@
 @echo off
-set /a time=6
+set /a time=8
 for /f "tokens=*" %%a in ('bin\ffprobe -show_format -i %1 ^| find "duration"') do set _duration=%%a
 set _duration=%_duration:~9%
 for /f "delims=. tokens=1*" %%b in ('echo %_duration%') do set /a "_durS=%%b"
