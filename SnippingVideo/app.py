@@ -21,7 +21,7 @@ folderFirstOut = ""
 folderEndIn = ""
 folderEndOut = ""
 
-timeFirst = StringVar(window, value='00:00:10')
+timeFirst = StringVar(window, value='00:00:10.00')
 timeEnd = StringVar(window, value='15')
 
 def fnFolderFirstIn():
@@ -60,7 +60,7 @@ def fnConfigEnd(folderOut,strTime):
     txtConfigEnd += "set \"_newduration=%_durS%.%_durMS%\""+"\n"
     txtConfigEnd += "set \"_output=%~n1\""+"\n"
     txtConfigEnd += "md output"+"\n"
-    txtConfigEnd += "bin\\ffmpeg -ss 0 -i %1 -t %_newduration% -c copy \""+folderOut+"\\%_output%.mp4\""
+    txtConfigEnd += "bin\\ffmpeg -y -ss 0 -i %1 -t %_newduration% -c copy \""+folderOut+"\\%_output%.mp4\""
     return txtConfigEnd
     
 def fnCutEnd(folderIn):
