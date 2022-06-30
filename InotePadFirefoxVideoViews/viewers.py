@@ -12,6 +12,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
+import time
 
 
 window = Tk()
@@ -19,7 +21,7 @@ window.geometry('430x330')
 window.title('INotepad.cloud - Phần mềm Views')
 window.iconbitmap('.\icon.ico')
 # window.resizable(0, 0)
-window.minsize(430, 330)
+window.minsize(430, 360)
 
 listData = []
 page = 0
@@ -95,10 +97,17 @@ def views_page(driver,urls,comment,page):
     driver.implicitly_wait(1)
     labelMessage.set('Đang xem video: '+ itemObj['url'])
     txtPlay = driver.find_element_by_class_name("ytp-play-button").get_attribute('title')
-    time.sleep(2)
+    time.sleep(5)
+    video = driver.find_element_by_id('movie_player')
     if(txtPlay == 'Play (k)'):
-        driver.find_element_by_xpath('//*[@id="player"]').click()
-    
+        print(">>>>>>>>>>> Video Click English")
+        video.click()
+        # driver.find_element_by_xpath('//*[@id="player"]').click()
+    if(txtPlay == 'Phát (k)'):
+        print(">>>>>>>>>>> Video Click Vietnam")
+        video.click()
+        # print(">>>>>>>>>> Press space")
+        # video.send_keys(Keys.SPACE)
     duration = driver.find_element_by_class_name("ytp-time-duration").text
     hasDuration = (duration!="")
     print(">>>>>duration: ",duration)
@@ -137,14 +146,38 @@ def views_page(driver,urls,comment,page):
             time.sleep(t2)
             print(">>>>>Next Video:",t2+t1)
     views_page(driver,urls,random_comment(),page)
+def listProfile():
+    listProfile = []
+    arrProfile = open("profile.txt", "r")
+    for x in arrProfile:
+        if x != '\n':
+            itemProfile = x.split('\\\\')
+            listProfile.append(itemProfile[len(itemProfile)-1].strip())
+    arrProfile.close()
+    return listProfile
+    
+listProfile()
+def getProfile():
+    strProfile = ""
+    arrProfile = open("profile.txt", "r")
+    for x in arrProfile:
+        if x != '\n':
+            itemProfile = x.split('\\\\')
+            if(itemProfile[len(itemProfile)-1].strip() == combobox_profile.get()):
+                strProfile = x.strip()
+    arrProfile.close()
+    print(">>>>>>>getProfile",strProfile)
+    return strProfile
     
 def autoBrowser():
-    configProfile = open("profile.txt", "r")
-    txtProfile = configProfile.read()
+    # configProfile = open("profile.txt", "r")
+    # txtProfile = configProfile.read()
+    # configProfile.close()
+    txtProfile = getProfile()
     print(">>>>>>>file",txtProfile)
     #'C:\\Users\\TruyenTDM\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\r19tqcue.truyenccm'
     profile = webdriver.FirefoxProfile(txtProfile)
-    configProfile.close()
+    
     profile.set_preference("dom.webdriver.enabled", False)
     profile.set_preference('useAutomationExtension', False)
     profile.set_preference('intl.accept_languages', 'en-US, en')
@@ -190,7 +223,6 @@ filter_watch['values'] = ('see',
                           'seen',
                           'all')
 filter_watch.current(2) 
-filter_watch.grid(row=1,column=0)
 
 filter_date = ttk.Combobox(window, width = 20, state='readonly')
   
@@ -204,10 +236,7 @@ filter_date['values'] = ('day',
                          )
 
 filter_date.current(0) 
-filter_date.grid(row=1,column=1)
-
 btnApply = Button(window,text="Apply",command=applyData)
-btnApply.grid(row=1,column=2)
 
 #table treeview
 my_tree = ttk.Treeview(window)
@@ -241,20 +270,42 @@ chkComment.select()
 btnWatch = Button(window,text="Watch",command=proccessWatch)
 btnWatch["state"] = "disabled"
 
+
+#add Data
+labelMessage = StringVar()
+num = StringVar(window, value='6')
+number_page = Entry(window,width=15,textvariable=num)
+
+#profile
+
+profiles = listProfile()
+
+combobox_profile = ttk.Combobox(window, width = 20, state='readonly')
+  
+# Adding combobox drop down list
+combobox_profile['values'] = profiles
+combobox_profile.current(0) 
+
+filter_watch.grid(row=1,column=0)
+filter_date.grid(row=1,column=1)
+btnApply.grid(row=1,column=2)
+
 chkHeadless.grid(row=2,column=0)
 chkMute.grid(row=2,column=1)
 chkReverse.grid(row=2,column=2)
-chkComment.grid(row=3,column=2)
-btnWatch.grid(row=1,column=4)
-#add Data
-my_tree.grid(row=4,columnspan =5,sticky=tk.W)
-labelMessage = StringVar()
-lblmessage = Label(window,textvariable=labelMessage).grid(row=5,columnspan=5)
+
 
 Label(window,text="Comments").grid(row=3,column=0)
-num = StringVar(window, value='6')
-number_page = Entry(window,width=15,textvariable=num)
+chkComment.grid(row=3,column=2)
 number_page.grid(row=3,column=1)
+
+Label(window,text="Profiles").grid(row=4,column=0)
+combobox_profile.grid(row=4,column=1)
+btnWatch.grid(row=4,column=2)
+
+my_tree.grid(row=5,columnspan =5,sticky=tk.W)
+
+lblmessage = Label(window,textvariable=labelMessage).grid(row=6,columnspan=5)
 
 def on_closing():
     try:
