@@ -289,6 +289,7 @@ combobox_profile.current(0)
 filter_watch.grid(row=1,column=0)
 filter_date.grid(row=1,column=1)
 btnApply.grid(row=1,column=2)
+btnWatch.grid(row=1,column=3)
 
 chkHeadless.grid(row=2,column=0)
 chkMute.grid(row=2,column=1)
@@ -301,7 +302,6 @@ number_page.grid(row=3,column=1)
 
 Label(window,text="Profiles").grid(row=4,column=0)
 combobox_profile.grid(row=4,column=1)
-btnWatch.grid(row=4,column=2)
 
 my_tree.grid(row=5,columnspan =5,sticky=tk.W)
 
