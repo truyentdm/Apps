@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Inotepad Extension</title>
+	<link rel="stylesheet" href="css/common.css">
+	<link rel="stylesheet" href="css/myStyle.css">
+    <script src="js/jquery.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/popup.js"></script>
+  </head>
+  <body>
+    <div id="wp_content" style="width: 650px;">
+      
+      <div id="manage_video" style="display: none;">
+        <h3>List Videos:</h3>
+        <div class="view">
+          <div class="view_top">
+            <form action="">
+              <input type="text" name="txtUrlTab" id="txtUrlTab" placeholder="URL"/><input type="text" name="txtAsin" id="txtAsin" placeholder="ASIN"/>
+              <input type="button" id="btnAddVideos" value="Add">
+              <input type="button" id="btnManage" value="Manage">
+              <input type="button" id="btnDelAllVideosdl" value="Delete All">
+            </form>
+          </div>
+          <table class="coin_all" cellspacing="0">
+              <thead>
+                  <tr>
+                      <th style="width: 20px;">STT</th>
+                      <th style="width: 150px;">Url</th>
+                      <th style="width: 150px;">Title</th>
+                      <th style="width: 150px;">Name product</th>
+                      <th style="width: 150px;">Asin</th>
+                      <th style="width: 150px;">Detail</th>
+                  </tr>
+              </thead>
+              <tbody id="videosdl_content">
+                  
+              </tbody>
+          </table>
+      </div>
+        
+      </div>
+      <div id="aeKeyID">
+        <div>
+            <label for="keyID">Key</label>
+            <input type="text" name="keyID" id="keyID" value="" onchange="clUpdateKey()"/>
+            <input type="button" value="Update" id="btnUpdate">
+        </div>
+        <div id="msg_key">
+          
+        </div>
+      </div>
+	</div>
+  </body>
+</html>

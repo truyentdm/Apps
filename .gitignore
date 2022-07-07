@@ -1,6 +1,6 @@
 # Build and Release Folders
 SnippingVideo/bin/
-
+.tmp.driveupload/
 
 # Other files and folders
 #.settings/

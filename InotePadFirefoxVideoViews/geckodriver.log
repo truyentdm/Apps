@@ -4994,3 +4994,42 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/edue1xTc5YuiZOhJi4V
 [2022-07-02T04:16:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 [2022-07-02T04:16:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 1656735597986	Marionette	INFO	Stopped listening on port 60615
+1657164705262	geckodriver	INFO	Listening on 127.0.0.1:62448
+1657164710144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62449" "-no-remote" "-profile" "C:\\Users\\dmt\\AppData\\Local\\Temp\\rust_mozprofilewfjtwB"
+*** You are running in headless mode.
+1657164710754	Marionette	INFO	Marionette enabled
+1657164710759	Marionette	INFO	Listening on port 62454
+WebDriver BiDi listening on ws://localhost:62449
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1657164711258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:62449/devtools/browser/a9346db0-69a4-4f8d-8ca3-a01551cc6a9a
+[2022-07-07T03:31:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:31:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:31:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:31:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 5200 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-07-07T03:36:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:36:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:36:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:36:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\dmt\AppData\Local\Temp\rust_mozprofilewfjtwB\thumbnails) because it does not exist
+[2022-07-07T03:44:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:44:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:44:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:44:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 5597 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-07-07T03:50:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:50:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:50:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:50:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 825 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-07-07T03:55:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:55:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:55:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:55:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:58:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:58:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:58:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T03:58:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657166630234	Marionette	INFO	Stopped listening on port 62454
