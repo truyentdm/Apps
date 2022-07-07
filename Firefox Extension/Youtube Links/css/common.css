@@ -1,0 +1,153 @@
+body{
+	color: #222;
+	font-family: Arial;
+	font-size: 12px;
+	text-align: left;
+}
+.container{
+	width: 90%;
+	margin: auto;
+}
+
+table{
+	font-size: 12px;
+	width: 100%;
+
+}
+th, td{
+	padding: 6px 5px;
+}
+
+th{
+	background:#666;
+	color: #fff;
+	font: bold  14px Tahoma;
+}
+
+.view{
+	width: 100%;
+	height: auto;
+	margin: 10px 0;
+	overflow-y: auto;
+}
+.view>table{
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+.view>table th,.view>table td{
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+}
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+.lc{
+	font: bold 12px Tahoma;
+	text-align: right;
+}
+.tts-title{
+	width: 100%;
+    background: #4285f4;
+    padding: 10px;
+    color: #fff;
+    /*margin-top: 15px;*/
+    font-size: 20px;
+}
+.wp-main {
+    padding: 5px 15px;
+}
+.bt-tts:hover {
+    color: #c1d1e2;
+}
+.bt-tts {
+    background: #4285f4;
+    color: #fff;
+    border: 1px solid transparent;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 10%;
+    font-size: 15px;
+    margin-right: 15px;
+}
+
+input[type="text"]{
+	padding: 8px 10px;
+	margin: 5px 0px;
+	border-radius: 5px;
+}
+input[type="number"]{
+	padding: 8px 10px;
+	margin: 5px 0px;
+	border-radius: 5px;
+}
+input[type="date"]{
+	padding: 5px 5px;
+	margin: 2px 0px;
+}
+select{
+	padding: 8px 5px;
+}
+input[type="button"]{
+	padding: 8px 5px;
+	margin-right: 5px;
+}
+input[type="datetime-local"] {
+    padding: 8px 2px;
+    margin-left: 5px;
+    border: 1px solid;
+}
+.hide{
+	display: none;
+}
+
+.tooltip {
+	position: relative;
+	display: inline-block;
+  }
+  
+  .tooltip .tooltiptext {
+	visibility: hidden;
+	width: 140px;
+	background-color: #555;
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 5px;
+	position: absolute;
+	z-index: 1;
+	bottom: 150%;
+	left: 50%;
+	margin-left: -75px;
+	opacity: 0;
+	transition: opacity 0.3s;
+  }
+  
+  .tooltip .tooltiptext::after {
+	content: "";
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #555 transparent transparent transparent;
+  }
+  
+  .tooltip:hover .tooltiptext {
+	visibility: visible;
+	opacity: 1;
+  }
+
+  .tooltip button {
+    padding: 8px 5px;
+    margin-right: 5px;
+	margin-top: 10px;
+}
+.width50{
+	width: 50% !important;
+}

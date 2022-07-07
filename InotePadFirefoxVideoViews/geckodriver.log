@@ -5033,3 +5033,44 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4d
 [2022-07-07T03:58:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
 JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1657166630234	Marionette	INFO	Stopped listening on port 62454
+1657176501938	geckodriver	INFO	Listening on 127.0.0.1:55174
+1657176505758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55175" "-no-remote" "-profile" "C:\\Users\\dmt\\AppData\\Local\\Temp\\rust_mozprofileLkK0NH"
+*** You are running in headless mode.
+1657176506478	Marionette	INFO	Marionette enabled
+1657176506484	Marionette	INFO	Listening on port 55182
+WebDriver BiDi listening on ws://localhost:55175
+1657176507007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:55175/devtools/browser/d87ecc26-f744-464e-945d-958107f3bbd5
+[2022-07-07T06:48:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T06:48:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T06:48:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T06:48:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T06:54:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T06:54:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T06:54:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T06:54:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[2022-07-07T06:56:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T06:56:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T06:56:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T06:56:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\dmt\AppData\Local\Temp\rust_mozprofileLkK0NH\thumbnails) because it does not exist
+[2022-07-07T07:01:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T07:01:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T07:01:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T07:01:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T07:07:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T07:07:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T07:07:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T07:07:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T07:15:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T07:15:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T07:15:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-07T07:15:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1657178146087	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657178391910	Marionette	INFO	Stopped listening on port 55182

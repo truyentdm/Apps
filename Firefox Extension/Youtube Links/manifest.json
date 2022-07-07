@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "Youtube Links",
+  "version": "1.0",
+
+  "description": "Small utility to save your favorite youtube links",
+  "homepage_url": "https://www.inotepad.cloud/",
+  "icons": {
+    "48": "icons/beasts-48.png"
+  },
+
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/beasts-32.png",
+    "default_title": "Youtube Links",
+    "default_popup": "popup/popup.html"
+  }
+}

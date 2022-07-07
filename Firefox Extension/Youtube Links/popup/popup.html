@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../css/common.css"/>
+    <link rel="stylesheet" href="popup.css"/>
+  </head>
+  <style>
+    body{
+      width:550px;
+    }
+  </style>
+<body>
+  <div id="wp_content" style="width: 100%;">    
+    <div id="manage_video" style="display: none;">
+      <h3>List Videos:</h3>
+      <div class="view">
+        <div class="view_top">
+          <form action="">
+            <input type="text" name="txtChannel" id="txtChannel" hidden/>
+            <input type="text" name="txtKeyword" id="txtKeyword" hidden/>
+            <input type="text" name="txtUrlTab" id="txtUrlTab" placeholder="URL"/><input type="datetime-local" name="txtTimer" id="txtTimer" placeholder="Time Public"/>
+            <input type="button" id="btnVideos" value="Add">
+            <input type="button" id="btnManage" value="Manage">
+            <input type="button" id="btnResetTimer" value="Reset Timer">
+          </form>
+        </div>
+        <table class="coin_all" cellspacing="0">
+            <thead>
+                <tr>
+                    <th style="width: 20px;">STT</th>
+                    <th style="width: 150px;">Url</th>
+                    <th style="width: 150px;">Public</th>
+                </tr>
+            </thead>
+            <tbody id="videosdl_content">
+                
+            </tbody>
+        </table>
+      </div>
+      
+    </div>
+    <div id="aeKeyID">
+      <div>
+          <label for="keyID">Key</label>
+          <input type="text" name="keyID" id="keyID" value="" onchange="clUpdateKey()"/>
+          <input type="button" value="Update" id="btnUpdate">
+      </div>
+      <div id="msg_key">
+        
+      </div>
+    </div>
+  </div>
+  <script src="../js/jquery.js"></script>
+  <script src="popup.js"></script>
+</body>
+
+</html>
