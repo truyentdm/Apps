@@ -21,17 +21,36 @@ function onChangeListVideos(data){
             <td>${item.name}</td>
             <td>${item.asin}</td>
             <td>${item.detail}</td>
+            <td><input type="button" id="${item._id}" value="Del"></td>
         </tr>`;
     });
     $("#videosdl_content").html(html);
 }
 
+function removeID(vid){
+    $.ajax({url: `https://www.inotepad.cloud/delVideosdlJson`, data: {_id: vid},method: "POST", success: function(result){
+        if(!result.error){
+            chrome.storage.local.get(['keyID'], function(result) {
+                update_data(result.keyID);
+            });
+        }
+    }});
+}
+function updateEvent(listID){
+    listID.forEach(item=>{
+        document.getElementById(item).addEventListener("click", ()=>{
+            removeID(item);
+        });
+    })
+    
+}
 function updateDataArray(data){
+    listData = [];
     data.forEach(element => {
         listData.push(element._id)
     });
     onChangeListVideos(data)
-    console.log(listData)
+    updateEvent(listData)
 }
 async function auth_key(keyId){
     var key = keyId;
@@ -97,6 +116,8 @@ document.addEventListener('DOMContentLoaded', function() {
         }});
     });
 });
+
+
 
 function clUpdateKey(){
     console.log("Click")
