@@ -2,7 +2,8 @@
 
   "manifest_version": 2,
   "name": "Youtube Links - Inotepad",
-  "version": "2.0",
+  "version": "1.0",
+  "author": "truyentdm",
 
   "description": "Small utility to save your favorite youtube links",
   "homepage_url": "https://www.inotepad.cloud/",
@@ -19,19 +20,5 @@
     "default_icon": "icons/beasts-32.png",
     "default_title": "Youtube Links",
     "default_popup": "popup/popup.html"
-  },
-  "addons": {
-      "{83496376-4c2e-4fda-88d7-04f785f7a993}": {
-        "updates": [
-          {
-            "version": "0.1",
-            "update_link": "https://inotepad.cloud/addon-0.1.xpi"
-          },
-          {
-            "version": "0.2",
-            "update_link": "https://inotepad.cloud/addon-0.2.xpi"
-          }
-        ]
-      }
-    }
+  }
 }

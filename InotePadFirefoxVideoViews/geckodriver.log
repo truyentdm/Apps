@@ -5074,3 +5074,43 @@ TimedPromise@chrome://remote/content/marionette/sync.js:219:10
 interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
 webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
 1657178391910	Marionette	INFO	Stopped listening on port 55182
+1657246523229	geckodriver	INFO	Listening on 127.0.0.1:56314
+1657246528098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56315" "-no-remote" "-profile" "C:\\Users\\dmt\\AppData\\Local\\Temp\\rust_mozprofileI1Mc0o"
+*** You are running in headless mode.
+1657246528561	Marionette	INFO	Marionette enabled
+1657246528565	Marionette	INFO	Listening on port 56320
+WebDriver BiDi listening on ws://localhost:56315
+1657246528659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:56315/devtools/browser/6f26b5db-f4f1-492d-8847-92f5753906c3
+[2022-07-08T02:15:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:15:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:15:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:15:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 6789 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-07-08T02:27:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:27:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:27:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:27:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\dmt\AppData\Local\Temp\rust_mozprofileI1Mc0o\thumbnails) because it does not exist
+[2022-07-08T02:30:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:30:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:30:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:30:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 3218 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-07-08T02:35:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:35:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:35:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:35:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 6384 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-07-08T02:39:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:39:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:39:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:39:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 7577 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-07-08T02:53:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:53:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:53:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-08T02:53:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1657249055563	Marionette	INFO	Stopped listening on port 56320
