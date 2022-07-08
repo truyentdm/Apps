@@ -22,20 +22,24 @@ function nextTime(){
 
 async function updateURL(){
     let urlCode = await browser.tabs.executeScript({
-		code: `document.querySelector("a.ytcp-video-info").outerText;`
+		code: `document.querySelector("a.ytcp-video-info") == null ? "" : document.querySelector("a.ytcp-video-info").outerText;`
 	});
-    
+    console.log("urlCode",urlCode)
     let channelCode = await browser.tabs.executeScript({
-		code: `document.querySelector("#entity-name").outerText;`
+		code: `document.querySelector("#entity-name") == null ? "" : document.querySelector("#entity-name").outerText;`
 	});
+    console.log("channelCode",channelCode)
     let keywordCode = await browser.tabs.executeScript({
-		code: `document.querySelector("#title-textarea > ytcp-form-input-container:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ytcp-mention-input:nth-child(1) > div:nth-child(1)").outerText;`
+		code: `document.querySelector("#title-textarea > ytcp-form-input-container:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ytcp-social-suggestion-input:nth-child(2) > div:nth-child(1)") == null ? "" : document.querySelector("#title-textarea > ytcp-form-input-container:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ytcp-social-suggestion-input:nth-child(2) > div:nth-child(1)").outerText;`
 	});
-    
-    $("#txtUrlTab").val(urlCode[0])
-    $("#txtChannel").val(channelCode[0])
-    $("#txtKeyword").val(keywordCode[0])
-    console.log(keywordCode);
+    let m_keywordCode = typeof keywordCode[0] != undefined ? keywordCode[0] : "";
+    let m_channelCode = typeof channelCode[0] != undefined ? channelCode[0] : "";
+    let m_urlCode     = typeof urlCode[0] != undefined ? urlCode[0] : "";
+    console.log("keywordCode",m_keywordCode)
+    $("#txtUrlTab").val(m_urlCode)
+    $("#txtChannel").val(m_channelCode)
+    $("#txtKeyword").val(m_keywordCode)
+
 }
 async function auth_key(keyId){
     var key = keyId;
